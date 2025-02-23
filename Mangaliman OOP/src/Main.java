@@ -35,7 +35,7 @@ public static void main(String[] args) {
 	System.out.println("\n3. Rectangle");
   	
 	Rectangle myRectangle = new Rectangle();
-	myRectangle.area(args);;
+	myRectangle.area(args);
 
 	}
 
